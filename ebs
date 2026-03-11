@@ -22,7 +22,7 @@ DB_ORACLE_USER="oracle"
 DB_SCRIPTS_DIR="/u01/app/oracle/product/19.0.0.0/dbhome_1/appsutil/scripts/UAT_ebsdbuat01"
 
 APP_USER="applmgr"
-EBS_ENV_FILE="/apps/ebs/fs1/EBSapps/EBSapps.env"
+EBS_ENV_FILE="/apps/ebs/EBSapps.env"
 
 APPS_USERNAME="apps"
 APPS_PASSWORD="apps"
